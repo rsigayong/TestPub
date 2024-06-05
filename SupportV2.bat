@@ -23,7 +23,7 @@ if not %nandu% =="" goto wrong
 :koms
 mode con cols=70 lines=20
 echo                     Collecting System Information..!
-mkdir C:\Batch\%COMPUTERNAME%
+mkdr C:\Batch\%COMPUTERNAME%
 echo computer %COMPUTERNAME% with user %USERNAME% logged on at %DATE% %TIME% >>C:\Batch\%COMPUTERNAME%\%COMPUTERNAME%_Systeminfo.txt
 echo ----------------------------------------------------------------->>C:\Batch\%COMPUTERNAME%\%COMPUTERNAME%_Systeminfo.txt
 echo COMPUTER SYSTEM INFORMATION AND SPECIFICATIONS >>C:\Batch\%COMPUTERNAME%\%COMPUTERNAME%_Systeminfo.txt
