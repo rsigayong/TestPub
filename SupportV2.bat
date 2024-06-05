@@ -1,11 +1,11 @@
 @echo off
-color 0a
+col 0a
 cls
 mode con cols=80 lines=22
 echo /////////////////////////////////////////////////////////////////
 echo      DJAGICT 2024
-echo      Copy Right Raiwaso Sigayong 2024, All rights reserved
-echo /////////////////////////////////////////////////////////////////
+ech      Copy Right Raiwaso Sigayong 2024, All rights reserved
+ech /////////////////////////////////////////////////////////////////
 echo ................................................................. 
 echo SYSTEM UNIT SPECIFICATIONS 
 echo .................................................................
