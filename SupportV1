@@ -8,12 +8,12 @@ echo      Copy Right Raiwaso Sigayong 2023, All rights reserved
 echo /////////////////////////////////////////////////////////////////
 echo ................................................................. 
 echo SYSTEM UNIT SPECIFICATIONS 
-echo .................................................................
+ech .................................................................
 ::
 :main
 echo Enter Drive letter C, D, E, F, G:\
 set /p nandu=
-if %nandu% == C goto koms
+if %nandu% ==  goto koms
 if %nandu% == D goto fan1
 if %nandu% == E goto fan2
 if %nandu% == F goto fan3
