@@ -3,8 +3,8 @@ col 0a
 cls
 mode con cols=80 lines=22
 echo /////////////////////////////////////////////////////////////////
-echo      DJAGICT 2024
-ech      Copy Right Raiwaso Sigayong 2024, All rights reserved
+echo      DJAGICT 2023
+ech      Copy Right Raiwaso Sigayong 2023, All rights reserved
 ech /////////////////////////////////////////////////////////////////
 echo ................................................................. 
 echo SYSTEM UNIT SPECIFICATIONS 
